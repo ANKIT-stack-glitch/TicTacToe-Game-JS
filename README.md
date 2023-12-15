@@ -1,2 +1,2 @@
 # TicTacToe-Game-JS
-My first GitHub project! 🚀 Explore front-end development with this beginner-friendly Tic Tac Toe game in HTML, CSS, and JavaScript. Reset the game, play a new round, and declare the winner. Join my learning adventure, provide feedback, and let's code together! 👩‍💻👨‍💻
+Welcome to my first project on GitHub! 🚀 This simple Tic Tac Toe game is the result of my journey as a beginner in HTML, CSS, and JavaScript. Explore the world of front-end development with this interactive game, where you can reset the game, play a new round, and witness the excitement of declaring the winner at the end. Join me on my learning adventure and feel free to provide feedback or collaborate. Let's code together!
