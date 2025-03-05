@@ -6,11 +6,15 @@ This simple **Tic Tac Toe** game is the result of my journey as a beginner in **
 ✅ Play a new round 🔄  
 ✅ Experience the excitement of declaring a winner at the end 🏆  
 
-## 📸 Screenshot
-![Tic Tac Toe Screenshot](screenshot.png)
-
 ## 🔗 Live Demo
-🔴 [Play Tic Tac Toe Online](YOUR_LIVE_DEMO_LINK_HERE)  
+🔴 [Play Tic Tac Toe Online](https://ankit-stack-glitch.github.io/TicTacToe-Game-JS/)  
+
+## 📸 Screenshot
+
+<img src="https://github.com/user-attachments/assets/d1cfcd44-5124-4521-9479-41578fe91d0e" alt="Tic Tac Toe Screenshot" width="400">
+
+
+
 
 ## 💻 Technologies Used
 - 🌐 **HTML5** – Structuring the game board
